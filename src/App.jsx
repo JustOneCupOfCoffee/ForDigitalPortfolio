@@ -4,12 +4,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="KULogo.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Hello Mr. or Ms. KU interviewer,
         </p>
-        <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+        <p className="medium">
+        It's an honor to present this project, built with the knowledge I gained from your 'Application with React' course.
         </p>
         <p>
           <a
