@@ -4,11 +4,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <hr style={{ width: "100%", border: "4px solid #a88e1f" }} />
+        <hr style={{ width: "70%", border: "4px solid #a88e1f" }} />
 
         <img src="Untitled design.png" className="App-logo" alt="logo"/>
 
-        <hr style={{ width: "100%", border: "4px solid #a88e1f" }} />
+        <hr style={{ width: "70%", border: "4px solid #a88e1f" }} />
 
         <h3>👋 Hello Mr. or Ms. KU interviewer 💻</h3>
 
@@ -29,13 +29,25 @@ function App() {
         <img src="image.png" class="IMAGESMALL2"/>
         <div className="side-by-side">
   <img src="TakeMahorse.jpg" className="IMAGESMALL3" alt="certificate" />
-  <p className="description">การออกเเบบสิ่งของด้วยโปรเกรมคอมพิวเตอร์ <br></br>โจทย์ : ออกเเบบ Art Toys 3D ที่สื่อถึงวัฒนธรรมประเทศไทย
-  <br></br>⭐รางวัลเหรียญทอง⭐ </p>
+   <div className="gradient-box">
+  <div className="gradient-content">
+  <p className="description">👨‍💻การออกเเบบสิ่งของด้วยโปรเกรมคอมพิวเตอร์ <br></br>โจทย์ : ออกเเบบ Art Toys 3D ที่สื่อถึงวัฒนธรรมประเทศไทย
+  <br></br>⭐รางวัลเหรียญทอง⭐ </p> </div></div>
 </div>
         <h2>✐ Training Certificate
  ✐<br></br>
         (เกียรติบัตรอบรม)</h2>
         <img src="ใบประกาศนียบัตร React-37.png" class="IMAGESMALL"/>
+        <div className="side-by-side">
+  <img src="KU_ImportantPicture.jpg" className="IMAGESMALL3" alt="certificate" />
+  <p className="description">
+    <div className="gradient-box">
+  <div className="gradient-content">
+    <p>👨‍💻 การอบรม Application เเละ React.<br></br>⭐นำความรู้มาทำ Webpage นี้⭐</p>
+  </div>
+</div> <br></br>
+  </p>
+</div>
       </header>
     </div>
   );
