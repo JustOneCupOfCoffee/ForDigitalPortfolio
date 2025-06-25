@@ -46,8 +46,24 @@ function App() {
     <p>👨‍💻 การอบรม Application เเละ React.<br></br>⭐นำความรู้มาทำ Webpage นี้⭐</p>
   </div>
 </div> <br></br>
+
   </p>
+
 </div>
+<img src="13-02-2568-นวินพรรษ (1).png" class="IMAGESMALL"/>
+  <div className="side-by-side">
+  <img src="DEPRESSION.jpg" className="IMAGESMALL3" alt="certificate" />
+  <p className="description">
+    <div className="gradient-box">
+  <div className="gradient-content">
+    <p>🏥 โครงการ"เด็กไทยใฝ่ดี"<br></br>✚ผมได้เรียนรู้วิธีการ CPR เเละ ปฐมพยาบาลเบื้องต้น</p>
+  </div>
+</div> <br></br>
+
+  </p>
+
+</div>
+
       </header>
     </div>
   );
