@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h3 className="side-by-side">ขอขอบคุณ <img src="DAT LOGO.png" class="IMAGESMALL5"/> เเละ <img src="KULogo.png" class="IMAGESMALL5"/> ที่จัดอบรม "Application with React" ทำให้ผมสามารถสร้างเพจนี้ได้</h3>
         <hr style={{ width: "70%", border: "4px solid #a88e1f" }} />
 
         <img src="Untitled design.png" className="App-logo" alt="logo"/>
@@ -22,6 +23,28 @@ function App() {
         </h4>
 <h2>🕵️ Personal Projects 🕵️ <br></br>
         (โครงการส่วนบุคคล)</h2>
+        <img src="When the legend become real, When the dream become nightmare, When the students had to fight for themselves... It’s called (3).png" class="IMAGESMALL"/>
+  <div className="side-by-side">
+  <img src="Screenshot 2025-06-26 121757.png" className="IMAGESMALL3" alt="certificate" />
+  <p className="description">
+    <div className="gradient-box">
+  <div className="gradient-content">
+    <p>"VITA EX MACHINA"<br></br>เกมที่ผมได้สร้างขึ้นด้วยโปรเเกรม "RPG Maker MV"</p>
+  </div>
+  
+</div> <br></br>
+<div className="gradient-box">
+  <div className="gradient-content">
+    <p>ผู้จัดทำ <br></br>นวินพรรษ กนกกรพิศุทธิ์ <br></br>(ทุกอย่าง)
+      <br></br>ยกเว้น เพลงประกอบต่างๆ
+    </p>
+  </div>
+</div>
+
+  </p>
+
+
+</div>
         <h2>🌏 National Level 🌏 <br></br>
         (ระดับประเทศ)</h2>
         <h2>📌 District Level 📌<br></br>
@@ -62,7 +85,9 @@ function App() {
 
   </p>
 
+
 </div>
+
 
       </header>
     </div>
