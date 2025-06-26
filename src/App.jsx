@@ -4,7 +4,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h3 className="side-by-side">ขอขอบคุณ <img src="DAT LOGO.png" class="IMAGESMALL5"/> เเละ <img src="KULogo.png" class="IMAGESMALL5"/> ที่จัดอบรม "Application with React" ทำให้ผมสามารถสร้างเพจนี้ได้</h3>
+        <h2 className="side-by-side">🙏ขอขอบคุณ🙏</h2>
+        <h3 className="side-by-side"><img src="DAT LOGO.png" class="IMAGESMALL5"/> เเละ <img src="KULogo.png" class="IMAGESMALL5"/> </h3>
+        <h3 className="side-by-side">ที่จัดอบรม "Application with React" ทำให้ผมสามารถสร้างเพจนี้ได้</h3>
         <hr style={{ width: "70%", border: "4px solid #a88e1f" }} />
 
         <img src="Untitled design.png" className="App-logo" alt="logo"/>
